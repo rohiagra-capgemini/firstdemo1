@@ -1,5 +1,2 @@
-Welcome to DevOps
-
-Welcome to DevOps branch
 
 Changes made for 3rd time.
